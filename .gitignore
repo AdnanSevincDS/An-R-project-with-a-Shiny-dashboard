@@ -4,3 +4,5 @@ presentation_dashboard_shiny.out
 presentation_dashboard_shiny.pdf
 .Rproj.user
 .Rproj.user/FC390D36
+.DS_Store
+.Rhistory
