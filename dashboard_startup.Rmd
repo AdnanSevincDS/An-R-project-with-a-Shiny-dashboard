@@ -1,6 +1,6 @@
 ---
 title: "Polish Economy - A Shiny Dashboard"
-author: "Adnan Sevinc (437971), Dustin Pacholleck (437968)"
+author: 
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   html_document:
